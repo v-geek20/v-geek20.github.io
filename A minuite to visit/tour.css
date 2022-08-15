@@ -52,13 +52,13 @@ img {
 	background: url(images/templatemo_header_bg.jpg) no-repeat;
 }
 
-#t_header #site_logo {
+/* #t_header #site_logo {
 	float: left;
 	margin: 80px 0 0 40px;
 	width: 410px;
 	height: 75px;
-	background:url(images/templatemo_logo.png) bottom left no-repeat;
-}
+	background:url(images/hol.jpg) bottom left no-repeat;
+} */
 
 .rc_btn_01 a{
 	float: right;
